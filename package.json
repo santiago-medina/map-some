@@ -1,5 +1,5 @@
 {
-    "name": "map-some",
+    "name": "@santiago-medina/map-some",
     "version": "1.0.0",
     "description": "A utility function to map an array and filter out null or undefined results in an efficient way.",
     "main": "src/index.js",
