@@ -1,0 +1,21 @@
+{
+    "name": "map-some",
+    "version": "1.0.0",
+    "description": "A utility function to map an array and filter out null or undefined results in an efficient way.",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node src/index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/santiago-medina/map-some.git"
+    },
+    "keywords": ["map", "array", "utility"],
+    "author": "Santiago Medina",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
